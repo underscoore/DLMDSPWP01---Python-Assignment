@@ -1,0 +1,7 @@
+ideal.csv
+test.csv
+train.csv
+/__pycache__
+*.docx
+*.db
+/venv/
